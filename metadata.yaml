@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2629
     wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
 description: 'Contiene: vol. I - vol. II - vol. III'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24898#Robert-Elsmere
 gutenberg_issued: '2008-03-23'
 gutenberg_type: Text
 identifiers:
